@@ -13,9 +13,8 @@ Trial 1:  using bin liners and join with tape and/or sewing.
 Material including two 50L liners as body and one 30L bin liner as sleeve.  
 Procedure as follows:
 
-a.  Cut the liners according to the pattern
-
-[image](pattern%20Teijin-Frontier%20weaven%20type.pdf)
+a.  Cut the liners according to the 
+![pattern](pattern%20Teijin-Frontier%20weaven%20type.pdf)
 
 
 
