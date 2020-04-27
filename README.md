@@ -54,5 +54,6 @@ However there are issues to be resolved:
 
 
 reference:
+1. source of pattern: https://www2.teijin-frontier.com/corona/200417.html  
+2. remarks on using markdowns in github.  https://en.wikipedia.org/wiki/Markdown
 
-1. remarks on using markdowns in github.  https://en.wikipedia.org/wiki/Markdown
