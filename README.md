@@ -15,7 +15,7 @@ Procedure as follows:
 
 a.  Cut the liners according to the pattern
 
-![image](
+![image]("pattern Teijin-Frontier weaven type.pdf")
 
 
 
