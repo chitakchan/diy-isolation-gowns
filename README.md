@@ -14,7 +14,7 @@ Material including two 50L liners as body and one 30L bin liner as sleeve.
 Procedure as follows:
 
 a.  Cut the liners according to the 
-![pattern](pattern-Teijin-Frontier-weaven%20type-translation.png)
+![pattern](drawing-Teijin-Frontier-weaven-type.png)
 
 
 
