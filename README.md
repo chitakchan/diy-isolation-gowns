@@ -18,11 +18,25 @@ a.   Pattern of isolation gown:
 ![pattern](docs/drawing-Teijin-Frontier-weaven-type600x600.png)
 
 
+Note that you may need two 50L liners to form the body portion and need adhesive tape to join them together, for instance, one as upper part and the other as lower part.  
+
 Mark the liner piece with the above pattern, allowing 1cm and 3cm extra width for edges where the piece would be join with other edges.  Cut the liners according to the marks.
+
+Use the drawing strings in the liner, fold them in two and sew along to form two straps:  one 110cm for neck strap, and another 200 cm long for the body strap.    
 
 b.  join the sleeve to the body with adhesive tape, like stationary clear tape or painter's masking tape.  It may helps to use a round cylindrical object to hold the position of the sleeve in perpendicular to the body.  I use a 19cm diameter (8") baking tin for cake.  Otherwise a plastic bin may do the same trick.  Apple tape to the seam like this ![picture](docs/applyingTapeOnJoint.png).
 
+complete to join the upper edges of sleeve.
 
+Take a elastic loop with 16 cm perimeter.  Fold the end of the sleeve to contain the loop and secure the cuff with sewing or adhesive tape.   
+
+c.  Use tape to join the shoulder portion of the body. 
+
+c.  Sew the neck strap to the upper edge of the body
+
+d.  sew the neck strap to the centre front the body.
+
+e.  check if there is any openings before packing.
 
 
 
